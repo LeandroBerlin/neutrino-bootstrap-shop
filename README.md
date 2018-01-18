@@ -1,2 +1,3 @@
-# neutrino+bootstrap+devugees
-A shopping system based on Neutrino.js with Bootstrap for Devugees courses
+#GONE TO CROATAN
+
+Moved here: https://github.com/foobaroo/neutrino-bootstrap-shop
